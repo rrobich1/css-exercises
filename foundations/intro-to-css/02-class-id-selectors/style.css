@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.some-class {
+    background-color: #f08080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#some-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.some-other-class {
+    font-size: 36px;
+}
+
+#some-other-id {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
