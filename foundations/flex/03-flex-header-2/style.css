@@ -64,6 +64,6 @@ ul {
 
 .right-align {
   display: flex;
-  justify-self: flex-end;
+  align-items: center;
   gap: 16px;
 }
